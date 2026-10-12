@@ -12,6 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Notify Discord
-        uses: 0error-scripts/pipeline-pling@696afc4532ae04a07807bb050957691bb7d0c80b # v1.1.0
+        uses: aicore-fivem/pipeline-pling@696afc4532ae04a07807bb050957691bb7d0c80b # v1.1.0
         with:
           webhook-url: ${{ secrets.DISCORD_COMMIT_WEBHOOK }}
