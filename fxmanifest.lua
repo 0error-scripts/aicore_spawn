@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'aicore_spawn'
 description 'Spawn selection for Aicore'
-repository 'https://github.com/0error-scripts/aicore_spawn'
+repository 'https://github.com/aicore-fivem/aicore_spawn'
 version '0.1.1'
 
 ox_lib 'locale'

@@ -1,4 +1,4 @@
-lib.versionCheck('0error-scripts/aicore_spawn')
+lib.versionCheck('aicore-fivem/aicore_spawn')
 
 local lastRequests = {}
 
